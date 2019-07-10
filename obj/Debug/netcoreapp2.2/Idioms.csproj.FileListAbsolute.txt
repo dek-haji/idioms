@@ -1,0 +1,11 @@
+/Users/dekhaji/workspace/csharp/Idioms/bin/Debug/netcoreapp2.2/Idioms.deps.json
+/Users/dekhaji/workspace/csharp/Idioms/bin/Debug/netcoreapp2.2/Idioms.runtimeconfig.json
+/Users/dekhaji/workspace/csharp/Idioms/bin/Debug/netcoreapp2.2/Idioms.runtimeconfig.dev.json
+/Users/dekhaji/workspace/csharp/Idioms/bin/Debug/netcoreapp2.2/Idioms.dll
+/Users/dekhaji/workspace/csharp/Idioms/bin/Debug/netcoreapp2.2/Idioms.pdb
+/Users/dekhaji/workspace/csharp/Idioms/obj/Debug/netcoreapp2.2/Idioms.csprojAssemblyReference.cache
+/Users/dekhaji/workspace/csharp/Idioms/obj/Debug/netcoreapp2.2/Idioms.csproj.CoreCompileInputs.cache
+/Users/dekhaji/workspace/csharp/Idioms/obj/Debug/netcoreapp2.2/Idioms.AssemblyInfoInputs.cache
+/Users/dekhaji/workspace/csharp/Idioms/obj/Debug/netcoreapp2.2/Idioms.AssemblyInfo.cs
+/Users/dekhaji/workspace/csharp/Idioms/obj/Debug/netcoreapp2.2/Idioms.dll
+/Users/dekhaji/workspace/csharp/Idioms/obj/Debug/netcoreapp2.2/Idioms.pdb
